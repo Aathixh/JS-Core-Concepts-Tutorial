@@ -1,0 +1,11 @@
+Model Information:
+* title:	Remy Ratatouille (KH3)
+* source:	https://sketchfab.com/3d-models/remy-ratatouille-kh3-cdfd851ae3f04af0bd2753294ecd62f1
+* author:	Guilherme Navarro (https://sketchfab.com/guinavarro.al)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Remy Ratatouille (KH3)" (https://sketchfab.com/3d-models/remy-ratatouille-kh3-cdfd851ae3f04af0bd2753294ecd62f1) by Guilherme Navarro (https://sketchfab.com/guinavarro.al) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

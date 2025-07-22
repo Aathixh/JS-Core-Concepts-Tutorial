@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import { SECTIONS_DATA } from "./constants";
+import Rat3D from "./components/3DRat";
 
 const App: React.FC = () => {
   return (
@@ -33,7 +34,12 @@ const App: React.FC = () => {
                 ))}
               </Section>
             ))}
-            <footer className="text-center text-dark-text/60 py-8">
+            <footer className="text-center text-dark-text/60">
+              <div className="mx-auto w-full max-w-4xl mb-8">
+                <div className="flex justify-center">
+                  <Rat3D width={900} height={500} />
+                </div>
+              </div>
               <p>You've reached the end! Keep practicing and building.</p>
               <p className="text-cyan mt-2 text-sm">
                 Created for Web Development Class
