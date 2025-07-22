@@ -113,7 +113,6 @@ if (isMorning && !isRaining) {
     code: `// Conditional (if/else)
       
 const afroz_KnowJavaScript = true;
-const afroz_always_usesAI = false;
 
 if (afroz_KnowJavaScript) {
   console.log("Afroz will Pass the exam!");
